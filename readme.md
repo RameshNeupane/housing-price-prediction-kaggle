@@ -84,4 +84,4 @@ This repository contains practice code from the course **'Intermediate Machine L
 
 ## Certificate
 
-[Here](https://github.com/RameshNeupane/kaggle-certificates/blob/master/Ramesh%20Neupane%20-%20Intermediate%20Machine%20Learning.png)
+![certificate](https://github.com/RameshNeupane/housing-price-prediction-kaggle/assets/45593423/d53d2842-3bc8-4a9b-a042-021f5a2bef90)
